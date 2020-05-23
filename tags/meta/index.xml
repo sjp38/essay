@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meta on Essay</title>
+    <link>https://sjp38.github.io/essay/tags/meta/</link>
+    <description>Essay (meta)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2020 08:29:11 +0200</lastBuildDate>
+    
+    <atom:link href="https://sjp38.github.io/essay/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>에세이 쓰기를 시작하며</title>
+      <link>https://sjp38.github.io/essay/post/starting_writing_essays/</link>
+      <pubDate>Sat, 23 May 2020 08:29:11 +0200</pubDate>
+      
+      <guid>https://sjp38.github.io/essay/post/starting_writing_essays/</guid>
+      <description>&lt;p&gt;독일에서 프로그래머로 일하며 살고 있습니다.  독일에 와서 가장 크게 달라진 점은
+역시 규칙적 생활과 여가시간의 존재 같군요.  지난 주말은 한국에서 가져온
+수필집을 읽었습니다.  글을 쓰는 걸 업으로 삼고 싶다는 생각을 처음 했던 때가
+기억나더군요.  오랫만에 장르를 바꿔서 컴퓨터가 아닌 사람을 위한, 논문이나
+매뉴얼도 아닌 글을 써보는 것도 재밌을 것 같습니다.&lt;/p&gt;
+&lt;p&gt;그런 이유로 과거 기억부터 요즘 생각까지, 산문의 형식을 빌린 짧은 글로 이곳에
+정리를 해보려 합니다.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
